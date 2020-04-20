@@ -1,8 +1,8 @@
-# CGIMoviesFront for CGI Summer internship 2020
+# CGIFront for CGI Summer internship 2020
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
-Frontend for displaying information received from the backend and being easy to use for a customer.
+Frontend for displaying information about movies received from the backend and being easy to use for a customer.
 
 ## Running the development server
 
