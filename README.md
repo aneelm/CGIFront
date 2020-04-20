@@ -1,26 +1,16 @@
-# CGIMoviesFront
+# CGIMoviesFront for CGI Summer internship 2020
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
-## Development server
+Frontend for displaying information received from the backend and being easy to use for a customer.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Running the development server
 
-## Code scaffolding
+1. Download/clone the project.
+2. Open up a command prompt and `cd` into the project folder.
+2. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Other stuff
 
 ## Further help
 
