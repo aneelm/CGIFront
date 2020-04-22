@@ -51,6 +51,7 @@ constants.ts holds and exports constants, in this particular case, it exports an
 movie.service.ts handles requests all the different components makes and talk between the backend and those components.
 
 movie.ts is the Movie class.
+
 ![Image of Last Structure](https://github.com/aneelm/images/blob/master/CGIInternship/lastStructure.png?raw=true)
 
 ## Further help
