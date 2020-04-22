@@ -42,7 +42,7 @@ Frontend for displaying information about movies received from the backend and b
 ![Image of Movie Detail](https://github.com/aneelm/images/blob/master/CGIInternship/detailedView.png?raw=true)
 
 ## Structure
-![Image of Components](https://github.com/aneelm/images/blob/master/CGIInternship/StructureToView.png?raw=true)
+![Image of Components](https://github.com/aneelm/images/blob/master/CGIInternship/StructueToView.png?raw=true)
 
 ## Further help
 
