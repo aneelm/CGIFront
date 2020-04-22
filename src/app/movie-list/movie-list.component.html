@@ -1,0 +1,11 @@
+<app-category-filter></app-category-filter>
+<h2>Movies</h2>
+<ul class="movies">
+    <li *ngFor="let movie of movies$ | async">
+      <a routerLink="details/{{movie.id}}"><h2>{{movie.title}}</h2></a>
+      ID: {{movie.id}}<br>
+      Categories: {{movie.categories}}<br>
+      Release year: {{movie.releaseDate | date:'yyyy'}}<br>
+      Rating: {{movie.rating}}/10
+    </li>
+  </ul>

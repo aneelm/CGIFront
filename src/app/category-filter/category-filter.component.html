@@ -1,0 +1,11 @@
+<form class="form" [formGroup]="form" (ngSubmit)="submitForm()" novalidate>
+
+  <div *ngFor="let data of ordersData; let i=index">
+    <label>
+      <input type="checkbox" [value]="data.id" (change)="onCheckboxChange($event)" />
+      {{data.name}}
+    </label>
+  </div>
+
+  <input type="submit" value="Submit">
+</form>

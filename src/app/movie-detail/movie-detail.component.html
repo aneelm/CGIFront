@@ -1,0 +1,12 @@
+<div *ngIf="movie$ | async as movie">
+  <div *ngIf="movie.title">
+    <h2> {{movie?.title}}</h2>
+    Categories:
+    <li *ngFor="let category of movie?.categories">
+      {{category}}
+    </li><br>
+    Release year: {{movie.releaseDate | date:'yyyy'}}<br>
+    Rating: {{movie.rating}}/10<br>
+    Description: {{movie.description}}
+  </div>
+</div>
