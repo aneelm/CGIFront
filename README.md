@@ -44,13 +44,13 @@ Frontend for displaying information about movies received from the backend and b
 ## Structure
 ![Image of Components](https://github.com/aneelm/images/blob/master/CGIInternship/StructueToView.png?raw=true)
 
-app-routing.module.ts links different urls to different components. For example: "/movies" displays MovieListComponent
+**app-routing.module.ts** links different urls to different components. For example: "/movies" displays MovieListComponent
 
-constants.ts holds and exports constants, in this particular case, it exports an array of ids and category names.
+**constants.ts** holds and exports constants, in this particular case, it exports an array of ids and category names.
 
-movie.service.ts handles requests all the different components makes and talk between the backend and those components.
+**movie.service.ts** handles requests all the different components makes and talk between the backend and those components.
 
-movie.ts is the Movie class.
+**movie.ts** is the Movie class.
 
 ![Image of Last Structure](https://github.com/aneelm/images/blob/master/CGIInternship/lastStructure.png?raw=true)
 
