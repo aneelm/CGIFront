@@ -4,10 +4,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Frontend for displaying information about movies received from the backend and being easy to use for a customer.
 
-## Things I altered from the original task.
-Instead of a movie only having 1 category, I opted for giving movies multiple categories.
+## Running the development server
+
+1. Download/clone the project.
+2. Open up a command prompt and `cd` into the project folder.
+2. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 
 ## Task completion assessment
+Minimal CSS was applied, since there was no design specifications from the "client".
+
 ### Stage 1. 
 - [x] a) Display movie list. In the list display movie title, category, year and rating.
 ### Stage 2. 
@@ -18,12 +24,8 @@ Instead of a movie only having 1 category, I opted for giving movies multiple ca
 - [x] b) Further develop the filtering functionality so the user can choose multiple categories.
 ### Stage 4. 
 - [x] a) Add a detailed movie view functionality. Display the movie's title, year, rating and the description.
-
-## Running the development server
-
-1. Download/clone the project.
-2. Open up a command prompt and `cd` into the project folder.
-2. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Things I altered from the original task.
+Instead of a movie only having 1 category, I opted for giving movies multiple categories.
 
 ## Images
 ### Navigation:
