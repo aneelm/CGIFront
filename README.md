@@ -4,6 +4,21 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Frontend for displaying information about movies received from the backend and being easy to use for a customer.
 
+## Things I altered from the original task.
+Instead of a movie only having 1 category, I opted for giving movies multiple categories.
+
+## Task completion assessment
+### Stage 1. 
+- [x] a) Display movie list. In the list display movie title, category, year and rating.
+### Stage 2. 
+- [x] a) Add a search function for searching movies by titles
+- [x] b) Further develop the search by adding an autocomplete function
+### Stage 3. 
+- [x] a) Add the opportunity for filtering the movies by categories.
+- [x] b) Further develop the filtering functionality so the user can choose multiple categories.
+### Stage 4. 
+- [x] a) Add a detailed movie view functionality. Display the movie's title, year, rating and the description.
+
 ## Running the development server
 
 1. Download/clone the project.
